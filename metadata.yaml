@@ -1,4 +1,8 @@
 _repo: The-History-and-Romance-of-Crime-Chronicles-of-Newgate-Vol-2_50514
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50514-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffiths, Arthur
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '3987'
     url: http://www.gutenberg.org/2009/agents/3987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50514#The-History-and-Romance-of-Crime-Chronicles-of-Newgate-Vol-2
 gutenberg_issued: '2015-11-20'
 gutenberg_type: Text
 identifiers:
